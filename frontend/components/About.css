@@ -1,0 +1,57 @@
+.about-section {
+  background: #f7f9fc;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.about-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.about-section h2 {
+  font-size: 2.5rem;
+  color: #07ac75;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 1.1rem;
+  color: #4b5563;
+  margin-bottom: 40px;
+}
+
+.about-highlights {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.highlight {
+  width: 250px;
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.highlight:hover {
+  transform: translateY(-10px);
+}
+
+.highlight img {
+  height: 130px;
+  margin-bottom: 15px;
+}
+
+.highlight h3 {
+  font-size: 1.2rem;
+  color: #059d6a;
+}
+
+.highlight p {
+  font-size: 0.95rem;
+  color: #6b7280;
+}

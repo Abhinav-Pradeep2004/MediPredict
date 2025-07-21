@@ -1,0 +1,13 @@
+.footer-section {
+  background-color: #0ae59c;
+  color: #ffffff;
+  padding: 30px 20px;
+  text-align: center;
+  border-top: 1px solid #06a470;
+  margin-top: 50px;
+}
+
+.footer-content p {
+  margin: 6px 0;
+  font-size: 0.95rem;
+}

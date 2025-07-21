@@ -1,8 +1,6 @@
 .venv/
 <<<<<<< HEAD
-fhir/
-csv/
+
 =======
 MediPredict/backend/dataset/
-node_modules/
 >>>>>>> 3783eef (New version)
