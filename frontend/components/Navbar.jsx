@@ -28,7 +28,6 @@ function Navbar() {
         <li>
           <Link to={user ? "/services" : "/login"}>Services</Link>
         </li>
-        <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="navbar-auth">
