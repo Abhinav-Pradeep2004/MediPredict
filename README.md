@@ -48,5 +48,14 @@ npm install
 npm run dev
 ```
 
+---
+
 ### Home Page
 ![WhatsApp Image 2025-07-23 at 22 24 45_1e667401](https://github.com/user-attachments/assets/2d2d632e-5245-4851-85ac-8235e72a2e67)
+
+---
+
+### Prediction Page
+![WhatsApp Image 2025-07-23 at 22 27 45_b21803bf](https://github.com/user-attachments/assets/796a977a-b6cf-46d1-b487-360c25fabc84)
+
+---
