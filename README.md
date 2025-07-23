@@ -42,6 +42,11 @@ uvicorn main:app --reload
 ```
 #### 2. Frontend (React + Tailwind CSS)
 
+```bash
 cd frontend
 npm install
 npm run dev
+```
+
+### Home Page
+![WhatsApp Image 2025-07-23 at 22 24 45_1e667401](https://github.com/user-attachments/assets/2d2d632e-5245-4851-85ac-8235e72a2e67)
