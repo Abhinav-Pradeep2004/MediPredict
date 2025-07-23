@@ -1,16 +1,47 @@
-<<<<<<< HEAD
-# MediPredict
-=======
-# React + Vite
+# 🩺 MediPredict – AI-Powered Disease Prediction System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MediPredict is a smart and user-friendly disease prediction system that uses Machine Learning to help users identify possible illnesses based on input symptoms. Built using **FastAPI** and **React**, this application empowers users to make informed decisions by getting instant health-related predictions and suggestions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+- 🧠 **AI-Powered Prediction** – Predicts possible diseases based on symptoms using a trained ML model.
+- 🎯 **Symptom Autocomplete Input** – Easily select from hundreds of symptoms.
+- ⚡ **FastAPI Backend** – Blazing fast REST API for processing predictions.
+- 💻 **React Frontend** – Sleek and responsive user interface with Tailwind CSS.
+- 📈 **Real-time Interaction** – Get disease predictions instantly after submitting inputs.
+- 📞 **Contact Form** – Let users reach out easily through the contact section.
+- 🔒 **Login/Signup System** – User authentication for secured access (under development).
+- 📁 **Firebase Integration** – For future use in contact forms, notifications, or storage.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 3783eef (New version)
+---
+
+## 🚀 Getting Started
+
+### 🛠️ Prerequisites
+
+- Python 3.8+
+- Node.js + npm
+- FastAPI
+- React
+- Tailwind CSS
+- Firebase (for contact form integration)
+- Required Python packages: `scikit-learn`, `pandas`, `uvicorn`, etc.
+
+---
+
+### 🔧 Installation
+
+#### 1. Backend (FastAPI)
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+#### 2. Frontend (React + Tailwind CSS)
+
+cd frontend
+npm install
+npm run dev
